@@ -1,0 +1,16 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Mar 1, 2024, 11:56:20 AM
+    Author     : vvitols3
+*/
+body {
+    background-image: url("cipari.jpg");
+}
+div.a {
+    line-height: 1;
+    font-size: 20px;
+    background-color: #dcdc00
+}

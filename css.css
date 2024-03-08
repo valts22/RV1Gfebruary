@@ -1,0 +1,58 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 16, 2024, 12:58:43 PM
+    Author     : vvitols3
+*/
+
+.bilde{
+    width: 70%;
+    height: 70%;
+}
+
+.tabula {
+  border-collapse: collapse;
+  border: 6px solid;
+  border-color: teal;
+  text-align: center
+}
+
+
+a:link {
+    color: orange;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: lightcyan;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightskyblue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: grey;
+    background-color: transparent;
+    text-decoration:none;
+}
+
+
+body {
+    background-image: url("solid-concrete-wall-textured-backdrop.jpg");
+}
+*{
+    color: lightgoldenrodyellow
+    
+}
+
+h2 {
+    text-decoration: underline
+}
